@@ -1,1 +1,2 @@
 # Priority-Queue-Performance-Analysis-in-Johnsons-Algorithm
+The project is of CS201 course of Data Structures and Algorithms. This project provides a detailed analysis of the performance of Johnson's algorithm. Johnson's algorithm uses Bellman-Ford and Dijkstra algorithms as subroutines. The priority queue has been implemented using Binomial, Binary and array based implementations of heaps. An analytical report depicting execution time of different heap implementation has been provided.
